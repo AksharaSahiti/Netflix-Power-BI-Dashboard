@@ -109,7 +109,3 @@ Netflix-PowerBI-Report/
 * 💼 [LinkedIn](https://www.linkedin.com/in/akshara-sahiti/)
 * 📧 [G-Mail](aksharaofc@gmail.com)
 
----
-
-Let me know if you'd like a **thumbnail image** or **GitHub repo name suggestions** too!
-
